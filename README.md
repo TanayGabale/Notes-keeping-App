@@ -1,7 +1,7 @@
 # Notes-keeping-App
 
 EasyNote
-Node.js EJS MongoDB JavaScript Express.js Bootstrap
+Node.js EJS MongoDB JavaScript Express.js 
 
 EasyNote is a powerful and intuitive web application designed to streamline your note-taking experience. Built using Node.js, EJS, and MongoDB. It combines simplicity with robust features to help you stay organized and productive.
 
